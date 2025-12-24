@@ -22,7 +22,7 @@ function ProductFetcher() {
       </div>
     )}
 
-const colorArray = ['red', 'blue', 'green', 'yellow', 'purple', 'orange', 'gray', 'pink' ];
+const colorArray = ['red', 'blue', 'green'];
 const isProductsArray = Array.isArray(products);
 
 return (
